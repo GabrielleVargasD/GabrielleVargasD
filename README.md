@@ -1,7 +1,7 @@
 # Olá! Seja bem-vindo(a) ao meu perfil! ❤️
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="450" alt="Coding GIF">
+  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="200" alt="Coding GIF">
 </p>
 
 ## Mais sobre mim ✨
